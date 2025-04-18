@@ -8,7 +8,7 @@ When I began preparing for my SANS exams (GFACT, GSEC, and GCIH), I knew that ef
 
 ![image alt](https://github.com/dita-cyber/Studying-SANS/blob/ffd1089fa8d1e011b2a43c65536cad9c1d27d7e4/sans1gfact.jpg)
 
-**Step 1: Color-Coding for Instant Book Recognition**<br/>
+**Step 1: Color-Coding**<br/>
 Each SANS book was assigned a specific color. I used this color consistently: tabs, highlighters, sticky notes — everything. This helped my brain form a visual memory of where content lived. If I saw something highlighted in orange, I instantly knew it came from Book 2, for example. Color became a shortcut for context.
 
 **Step 2: Tabbing by Page Intervals, Not Concepts**<br/>
@@ -28,16 +28,16 @@ I went through each book page by page, recording entries and assigning row color
 ![image alt](https://github.com/dita-cyber/Studying-SANS/blob/ffd1089fa8d1e011b2a43c65536cad9c1d27d7e4/gfact44.jpg)
 ![image alt](https://github.com/dita-cyber/Studying-SANS/blob/ffd1089fa8d1e011b2a43c65536cad9c1d27d7e4/gfact33.jpg)
 
-**Step 4: Refining the Index After Deep Reading**<br/>
+**Step 4: Refining the Index**<br/>
 After indexing, I read through all the books again. As I reviewed the material, I added practical notes to the printed version of the index — including commands, definitions, and shortcut examples. Once the reading phase was done, I returned to Excel and updated everything digitally, including formatting the fonts and spacing to make it easier to scan during the exam.
 
 **Step 5: Adding Alphabet Tabs to the Index**<br/>
 To speed up lookup time even more, I added the first letter and organize in alphabetical order. This allowed me to create alphabet tabs on the edge of my printed index. Now, if I needed to look up “Kerberos,” my eyes jumped straight to the “K” tab — no scanning, no delay.
 
-**Step 6: Allocating Space for Practice Exam Notes**<br/>
+**Step 6: Space for Practice Exam Notes**<br/>
 At the back of the index, I left several blank pages to collect notes from my practice exams. Each time I took a practice test, I documented missed questions and added missing info to the index. This iterative process helped me patch knowledge gaps and make sure my index was aligned with the kind of questions I’d encounter.
 
-**Lab Book Strategy: Tailored Tabs and a Separate Command Indexs**<br/>
+**Step 7: Lab Book Strategy: Separate Command Index**<br/>
 For the GSEC and GCIH courses, I followed the same indexing and tabbing strategy as with the other books. However, when it came to the lab books, I made a few adjustments to better support hands-on material during the exam. Instead of tabbing the labs by page intervals, I wrote the name of each lab directly on the tabs. This made it much easier to identify and jump straight to a specific lab without scanning multiple sections. In addition to that, I created a separate index exclusively for the labs, where each lab had its own section listing all the commands used, in the exact order they appeared. This helped me quickly reference syntax, tools, and commands without flipping through the entire lab book — a huge time-saver during exam scenarios that required technical recall.
 
 ![image alt](https://github.com/dita-cyber/Studying-SANS/blob/ffd1089fa8d1e011b2a43c65536cad9c1d27d7e4/gsec1.jpg)
