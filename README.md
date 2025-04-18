@@ -19,9 +19,9 @@ Instead of using traditional concept-based sticky tabs (which would have clutter
 **Step 3: Structured Indexing in Excel**<br/>
 To build the index, I created a simple table in Excel with three columns:
 
-**- Name:** The term or concept
-**- Page:** The exact page number
-**- Notes:** Quick references, acronyms, or definitions
+**- Name:** The term or concept<br/>
+**- Page:** The exact page number<br/>
+**- Notes:** Quick references, acronyms, or definitions<br/>
 
 I went through each book page by page, recording entries and assigning row colors to match the book they came from. Once the raw data was complete, I sorted everything alphabetically. This grouped related topics together — for example, “Assembly Basics,” “Assembly Instructions,” “Assembly Registers” — making them easier to locate under pressure.
 
